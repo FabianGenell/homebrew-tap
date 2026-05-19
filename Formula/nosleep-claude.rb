@@ -1,8 +1,8 @@
 class NosleepClaude < Formula
   desc "Keep macOS awake while the Claude Code CLI is running"
   homepage "https://github.com/FabianGenell/nosleep-claude"
-  url "https://github.com/FabianGenell/nosleep-claude/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "748b943c6c7c766c99f4c8fe5558867d38fb933cfd40d98249e5312f1d17d1ed"
+  url "https://github.com/FabianGenell/nosleep-claude/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "79cb04083fbf326feed349eccd5322530b86cea3bd52678e4fe736fa75ae3f55"
   license "MIT"
 
   depends_on :macos
